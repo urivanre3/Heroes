@@ -1,0 +1,20 @@
+
+@media (max-width: 993px) {
+
+    #minav{             
+        text-align: center;
+    }
+    #navbarSupportedContent{        
+       flex-direction: column;
+    }
+    #buscador{            
+        flex-direction: column;
+    }
+}
+
+
+
+
+
+
+
